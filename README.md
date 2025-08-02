@@ -1,6 +1,6 @@
 # Trivia Game API
 
-This is the RESTful API backend for the Trivia Game platform, built using **Flask** and **MongoDB**. It supports both user and admin interfaces, managing authentication, question handling, gameplay logic, and performance tracking for 10,000+ concurrent users.
+This is the RESTful API backend for the Trivia Game platform, built using **Flask** and **MongoDB**. It supports both user and admin interfaces, managing authentication, question handling, gameplay logic, and performance tracking.
 
 ## 🌟 Features
 
